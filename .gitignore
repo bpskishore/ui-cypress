@@ -1,0 +1,5 @@
+node_modules/
+cypress/integration/examples/
+cypress/integration/legacy/
+cypress/viodes
+cypress/screenshots
